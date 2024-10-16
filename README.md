@@ -39,17 +39,17 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
-月付 9.9 元起，签到领流量，支持不满意退款。
+月付 11 元起，签到领流量，支持不满意退款。
 
 #### 疾风云官网
 
-[疾风云最新官网](https://go.51tz.cc/jfcloud)
+[疾风云最新官网](https://go.1vpn.cc/ewan)
 
 #### 疾风云套餐价格
 
 |疾风云|付款周期|价格|每月流量|同时在线数量|
 | --- | --- | --- | --- | --- |
-|入门版|按月付|9.90|50 GB|1|
+|入门版|按月付|11.90|50 GB|1|
 |基础版|按月付|15.99|100 GB|2|
 |标准版|按月付|25.99|200 GB|3|
 |高级版|按月付|35.99|350 GB|5|
@@ -71,7 +71,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，不限宽带�
 
 #### 耐思云官网
 
-[耐思云最新官网](https://go.51tz.cc/nicecloud)
+[耐思云最新官网](https://go.1vpn.cc/nisi)
 
 #### 耐思云套餐价格
 
@@ -98,7 +98,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 速云梯官网
 
-[速云梯最新官网](https://go.51tz.cc/sycloud)
+[速云梯最新官网](https://go.1vpn.cc/suyu)
 
 #### 速云梯套餐价格
 
@@ -126,7 +126,7 @@ Soda苏打云机场是一家成立于2022年的翻墙机场，采用流行的Sha
 
 #### 苏打云机场官网
 
-[苏打云机场最新官网](https://go.51tz.cc/sodacloud)
+[苏打云机场最新官网](https://go.1vpn.cc/soda)
 
 #### 苏打云机场套餐价格
 
@@ -151,7 +151,7 @@ CyberGuard机场除常规月付套餐，也提供不限时长的按量付费流�
 
 #### CyberGuard机场官网
 
-[CyberGuard机场最新官网](https://go.51tz.cc/cyber)
+[CyberGuard机场最新官网](https://go.1vpn.cc/cybg)
 
 #### CyberGuard机场套餐价格
 
