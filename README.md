@@ -89,7 +89,35 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，不限宽带�
 
 ![image](https://github.com/VPN-Website/tizituijian/assets/153252983/75aa7301-a2e5-4311-8d32-6b2fb08d0a00)
 
-### 3.优信云
+### 3.疾风云
+
+疾风云机场，是实力老牌机场旗下的新开分站，是用低价提供优质中高端翻墙节点的机场梯子工具加速器。
+
+使用隧道中转优化线路与IPLC国际专线，采用SSR协议和V2Ray协议及Trojan协议，抗封锁能力强，多条的优质线路节点主要集中在美国、日本、香港、台湾、新加坡、马来西亚、韩国、法国等中国用户常用国家与地区。
+
+支持流媒体解锁、支付宝支付。支持24H不满意退款和即时在线客服。
+
+#### 疾风云官网
+
+[疾风云最新官网](https://go.1vpn.cc/jife)
+
+#### 疾风云套餐价格
+
+|疾风云|付款周期|价格|每月流量|同时在线数量|
+| --- | --- | --- | --- | --- |
+|入门版|按月付|13.90|50 GB|1|
+|基础版|按月付|18.99|100 GB|2|
+|标准版|按月付|28.99|200 GB|3|
+|高级版|按月付|38.99|350 GB|5|
+|旗舰版|按月付|52.99|600 GB|8|
+|旗舰版大流量|按月付|98.99|1200 GB|10|
+
+#### 疾风云机场测速
+
+![image](https://github.com/user-attachments/assets/6cd1157c-4db5-4218-a5c4-fce1e35d114f)
+
+
+### 4.优信云
 
 优信云VPN机场是一家成立于2024年的科学上网机场，机场使用安全高速的Trojan协议，有国内中转和IPLC内网专线。
 
@@ -116,7 +144,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，支持支付�
 ![youxincloud-SpeedTest](https://github.com/user-attachments/assets/42e3c5ac-882a-467f-9cca-63beaaeece62)
 
 
-### 4. 速云梯
+### 5. 速云梯
 
 速云梯提供海量SSR/V2ray翻墙协议节点，有国内中转和IPLC内网专线。IPLC专线不经过GFW，即便是敏感时期，稳定性也有保证，不担心被封锁。
 
@@ -143,7 +171,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 ![image](https://github.com/VPN-Website/tizituijian/assets/153252983/29ae3a4d-4549-406c-9885-391d7012b5ae)
 
 
-### 5. 苏打云机场
+### 6. 苏打云机场
 
 Soda苏打云机场是一家成立于2022年的翻墙机场，采用流行的Shadowsocks翻墙协议，专线节点，高速稳定。
 
@@ -169,7 +197,7 @@ Soda苏打云机场是一家成立于2022年的翻墙机场，采用流行的Sha
 ![photo_2024-03-09_00-13-59](https://github.com/VPN-Website/tizituijian/assets/153252983/3556da07-eda1-4009-937f-ee3b96687a54)
 
 
-### 6. CyberGuard机场
+### 7. CyberGuard机场
 
 CyberGuard也叫CG加速器，机场团队主要人员位于海外，Shadowsocks协议，线路有IEPL专线和AnyCast网络。
 
